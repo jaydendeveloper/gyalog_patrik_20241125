@@ -1,0 +1,10 @@
+J:\12c\c#\20250204\madarles\madarles\bin\Debug\madarles.exe.config
+J:\12c\c#\20250204\madarles\madarles\bin\Debug\madarles.exe
+J:\12c\c#\20250204\madarles\madarles\bin\Debug\madarles.pdb
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.csproj.AssemblyReference.cache
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.Form1.resources
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.Properties.Resources.resources
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.csproj.GenerateResource.cache
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.csproj.CoreCompileInputs.cache
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.exe
+J:\12c\c#\20250204\madarles\madarles\obj\Debug\madarles.pdb
